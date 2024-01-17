@@ -13,6 +13,7 @@
 - 👨🏻‍💻 &nbsp; Freelancer 
 
 <br>
+<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/-Victor%20Sandoval-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victorsandovalamaral)](https://www.linkedin.com/in/victorsandovalamaral)
@@ -31,7 +32,6 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
-  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
@@ -46,7 +46,7 @@
 - 📱 &nbsp;
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![ReactNative](https://img.shields.io/badge/-ionic-333333?style=flat&logo=ionic)
+  ![Ionic](https://img.shields.io/badge/-ionic-333333?style=flat&logo=ionic)
 
   
   
@@ -54,9 +54,11 @@
 <br/>
 
 ## 📈 Stats
-![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=victorSA99&hide=["issues"]&show_icons=true&line_height=30)
 
-![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSA99&theme=buefy&layout=compact&langs_count=10)
+
+![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=victorSA99&theme=react&show_icons=true&line_height=30)
+
+<!--![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSA99&theme=react&layout=compact&langs_count=10)-->
 
 ---
 
